@@ -8,7 +8,7 @@
 - Preparação do NoteBookLM: inserção dos arquivos e site conforme o link - https://notebooklm.google.com/notebook/0b98cae8-ea59-4320-b6b5-15afa5e4595e
 - Segue abaixo os questionamentos e os resultados esperados:
 
-1º Prompt de Planejamento: 
+1º Prompt Mestre ou Prompt de Estruturação 
 - Quais os passo a passo que devo seguir para atingir os objetivos deste desafio?
 - Em que, segundo a temática que quero usar, seja realizado um estudo sobre o dízimo.
 - O estudo deve conter uma introdução, desenvolvimento e conclusão com base em uma problemática: O dízimo são para os dias de hoje?
