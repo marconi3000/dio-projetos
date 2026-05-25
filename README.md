@@ -6,6 +6,17 @@
 ### 3. Desenvolvimento da atividade
 - Criação de um repositório no GitHub para a execução da atividade: https://github.com/marconi3000/dio-projetos.git
 - Preparação do NoteBookLM: inserção dos arquivos e site conforme o link - https://notebooklm.google.com/notebook/0b98cae8-ea59-4320-b6b5-15afa5e4595e
+- Segue abaixo os questionamentos e os resultados esperados:
+
+1º Prompt de Planejamento: 
+- Quais os passo a passo que devo seguir para atingir os objetivos deste desafio?
+- Em que, segundo a temática que quero usar, seja realizado um estudo sobre o dízimo.
+- O estudo deve conter uma introdução, desenvolvimento e conclusão com base em uma problemática: O dízimo são para os dias de hoje?
+- E que também contenha os objetivos gerais e específicos, fundamentação teórica e versos bíblicos em destaque para o estudo.
+Usei este prompt para que a IA ajudasse a organizar a estrutura lógica do estudo antes de gerar o conteúdo detalhado
+Após a resposta, que pelo visto, foi bastante satisfatória e bem resumida conforme o texto abaixo:
+
+---
 
 ## I. Introdução
 O dízimo é um dos temas mais controversos no meio cristão atual, gerando debates sobre sua obrigatoriedade na Dispensação da Graça
