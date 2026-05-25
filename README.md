@@ -68,15 +68,15 @@ Crie essa estrutura de perguntas e respostas com base em um diálogo informal, p
 
 ## Resultado: 
 ---
-Pergunta: Cara, eu estava pensando aqui... os judeus ainda entregam o dízimo de 10% igual a gente vê na Bíblia?
-Resposta: Olha, a resposta curta é não, pelo menos não daquele jeito "raiz" que a Lei de Moisés pedia
+**Pergunta**: Cara, eu estava pensando aqui... os judeus ainda entregam o dízimo de 10% igual a gente vê na Bíblia?
+**Resposta**: Olha, a resposta curta é não, pelo menos não daquele jeito "raiz" que a Lei de Moisés pedia
 . A prática do dízimo bíblico original parou de ser obrigatória para eles por um motivo bem simples: a falta do Templo de Jerusalém
 
 Pense no dízimo bíblico como um "aplicativo" que só funciona se estiver conectado a um "Wi-Fi" específico (que seria o Templo). Como o Templo foi destruído no ano 70 d.C., o "sinal" caiu e o aplicativo parou de funcionar como deveria
 . Muitos rabinos hoje dizem que seria até pecado receber o dízimo oficial, porque não existe mais o Templo nem uma ordem de sacerdotes levitas consagrados para gerenciar isso
 
-Pergunta: Mas então eles não dão mais nada? Como as comunidades judaicas se mantêm?
-Resposta: Eles são muito organizados! Embora o dízimo agrícola (de grãos e animais) não seja mais praticado fora de Israel por falta do Templo, eles criaram o que chamam de ma'aser kesafim
+**Pergunta**: Mas então eles não dão mais nada? Como as comunidades judaicas se mantêm?
+**Resposta**: Eles são muito organizados! Embora o dízimo agrícola (de grãos e animais) não seja mais praticado fora de Israel por falta do Templo, eles criaram o que chamam de ma'aser kesafim
 
 Analogia: É como se você não pudesse mais pagar a mensalidade de um clube porque o prédio fechou, então você decide pegar esse mesmo valor e doar diretamente para caridade ou para ajudar a manter o centro cultural do seu bairro
 
@@ -87,6 +87,6 @@ Ma'aser Kesafim: É o costume de doar cerca de um décimo da renda para caridade
 
 Manutenção da Sinagoga: As comunidades se cotizam para manter o espaço físico e o rabino, mas sem aquela estrutura de "imposto sagrado" de antigamente
 
-Pergunta: E em Israel? Lá eles plantam, né? Como fica?
-Resposta: Lá é curioso! Alguns judeus religiosos em Israel ainda separam as porções dos dízimos das plantações só para seguir a tradição, mas como não há o Templo para levar a comida e nem como garantir a pureza ritual dos sacerdotes, eles acabam descartando essas partes separadas em vez de consumi-las
+**Pergunta**: E em Israel? Lá eles plantam, né? Como fica?
+**Resposta**: Lá é curioso! Alguns judeus religiosos em Israel ainda separam as porções dos dízimos das plantações só para seguir a tradição, mas como não há o Templo para levar a comida e nem como garantir a pureza ritual dos sacerdotes, eles acabam descartando essas partes separadas em vez de consumi-las
 . É um gesto simbólico de respeito à Lei
