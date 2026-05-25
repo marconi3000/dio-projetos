@@ -8,7 +8,7 @@
 - Preparação do NoteBookLM: inserção dos arquivos e site conforme o link - https://notebooklm.google.com/notebook/0b98cae8-ea59-4320-b6b5-15afa5e4595e
 - Segue abaixo os questionamentos e os resultados esperados:
 
-1º Prompt Mestre ou Prompt de Estruturação 
+# 1º Prompt Mestre ou Prompt de Estruturação 
 - Quais os passo a passo que devo seguir para atingir os objetivos deste desafio?
 - Em que, segundo a temática que quero usar, seja realizado um estudo sobre o dízimo.
 - O estudo deve conter uma introdução, desenvolvimento e conclusão com base em uma problemática: O dízimo são para os dias de hoje?
@@ -53,4 +53,40 @@ Conclui-se que o dízimo, conforme moldado pela Lei Mosaica, cumpriu seu papel h
 . Embora não haja uma imposição de 10% no Novo Testamento, a Igreja é chamada a uma generosidade que pode até superar esse valor, visando o sustento daqueles que vivem da obra e o auxílio aos necessitados
 . O cristão contemporâneo é livre do jugo da Lei, mas escravo do amor de Cristo para contribuir com o que propuser em seu coração
 
+# 2º Prompt de Instrução de Estilo e Persona (ou Saída Criativa)
+## As características desse estilo são:
+- Contextualização de Formato: Não pedi apenas a informação, mas determinei a estrutura (perguntas e respostas).
+- Engenharia de "Tom de Voz": especifiquei que o diálogo deveria ser informal para facilitar a compreensão.
+- Solicitação de Ferramentas Cognitivas: Ao pedir a inclusão de analogias, usei uma técnica de aprendizado que ajuda a simplificar conceitos teológicos ou históricos complexos (como a dependência do Templo para a validade da Lei).
+- Segue o texto utilizado:
+  
+Os judeus ainda realizam a prática do dízimo? Se não, porque eles não realizam? E qual as formas que eles utilizam hoje para agariar dinheiro?
+Crie essa estrutura de perguntas e respostas com base em um diálogo informal, para a compreensão de todos e se possível a inclusão de algumas analogias para conceitos mais dificeis de compreenssão.
 
+Os judeus ainda realizam a prática do dízimo? Se não, porque eles não realizam? E qual as formas que eles utilizam hoje para agariar dinheiro?
+Crie essa estrutura de perguntas e respostas com base em um diálogo informal, para a compreensão de todos e se possível a inclusão de algumas analogias para conceitos mais dificeis de compreenssão.
+
+## Resultado: 
+---
+Pergunta: Cara, eu estava pensando aqui... os judeus ainda entregam o dízimo de 10% igual a gente vê na Bíblia?
+Resposta: Olha, a resposta curta é não, pelo menos não daquele jeito "raiz" que a Lei de Moisés pedia
+. A prática do dízimo bíblico original parou de ser obrigatória para eles por um motivo bem simples: a falta do Templo de Jerusalém
+
+Pense no dízimo bíblico como um "aplicativo" que só funciona se estiver conectado a um "Wi-Fi" específico (que seria o Templo). Como o Templo foi destruído no ano 70 d.C., o "sinal" caiu e o aplicativo parou de funcionar como deveria
+. Muitos rabinos hoje dizem que seria até pecado receber o dízimo oficial, porque não existe mais o Templo nem uma ordem de sacerdotes levitas consagrados para gerenciar isso
+
+Pergunta: Mas então eles não dão mais nada? Como as comunidades judaicas se mantêm?
+Resposta: Eles são muito organizados! Embora o dízimo agrícola (de grãos e animais) não seja mais praticado fora de Israel por falta do Templo, eles criaram o que chamam de ma'aser kesafim
+
+Analogia: É como se você não pudesse mais pagar a mensalidade de um clube porque o prédio fechou, então você decide pegar esse mesmo valor e doar diretamente para caridade ou para ajudar a manter o centro cultural do seu bairro
+
+Hoje, eles arrecadam recursos de três formas principais:
+Doações Voluntárias: Um conjunto de contribuições para o culto, assistência social e beneficência
+
+Ma'aser Kesafim: É o costume de doar cerca de um décimo da renda para caridade, mas isso é visto como uma obrigação ética e moral, não como uma continuação direta do dízimo da Bíblia
+
+Manutenção da Sinagoga: As comunidades se cotizam para manter o espaço físico e o rabino, mas sem aquela estrutura de "imposto sagrado" de antigamente
+
+Pergunta: E em Israel? Lá eles plantam, né? Como fica?
+Resposta: Lá é curioso! Alguns judeus religiosos em Israel ainda separam as porções dos dízimos das plantações só para seguir a tradição, mas como não há o Templo para levar a comida e nem como garantir a pureza ritual dos sacerdotes, eles acabam descartando essas partes separadas em vez de consumi-las
+. É um gesto simbólico de respeito à Lei
