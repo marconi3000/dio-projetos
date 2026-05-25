@@ -4,5 +4,42 @@
 ### 1. Tema: **Estudo sobre o dízimo**
 ### 2. Objetivo: Explorar as utilidades da ferramenta NotebookLM
 ### 3. Desenvolvimento da atividade
-#### - Criação de um repositório no GitHub para a execução da atividade
+- Criação de um repositório no GitHub para a execução da atividade: https://github.com/marconi3000/dio-projetos.git
+- Preparação do NoteBookLM: inserção dos arquivos e site conforme o link - https://notebooklm.google.com/notebook/0b98cae8-ea59-4320-b6b5-15afa5e4595e
+
+## I. Introdução
+O dízimo é um dos temas mais controversos no meio cristão atual, gerando debates sobre sua obrigatoriedade na Dispensação da Graça
+. A problemática central reside em definir se a prática de entregar 10% dos rendimentos é uma lei perpétua ou se foi um sistema restrito à teocracia de Israel e ao sustento do sacerdócio levítico.
+. Enquanto alguns defendem que é um princípio de fidelidade anterior à Lei, outros argumentam que a morte de Cristo encerrou as obrigações rituais do Antigo Pacto.
+
+## II. Objetivos
+- Objetivo Geral: Analisar a validade teológica e a aplicação prática do dízimo para os cristãos contemporâneos à luz das Escrituras
+
+Objetivos Específicos:
+- Diferenciar o dízimo voluntário de Abraão da ordenança legalista de Moisés
+- Investigar as menções de Jesus ao dízimo e seu contexto debaixo da Lei
+- Comparar a obrigatoriedade do dízimo com o princípio da contribuição voluntária e generosa ensinado pelos apóstolos
+
+## III. Fundamentação Teórica
+O Dízimo Antes da Lei: Abraão entregou o dízimo a Melquisedeque de forma voluntária e apenas uma vez, sobre despojos de guerra, não sobre rendas periódicas
+. Jacó também prometeu o dízimo num voto condicional, o que indica que a prática não era uma imposição geral na época
+O Dízimo na Lei de Moisés: Foi instituído como um "imposto de renda" para a nação teocrática de Israel, destinado ao sustento dos levitas (que não tinham herança de terra), órfãos, viúvas e estrangeiros
+. O dízimo bíblico era agropecuário (alimento) e nunca pago em dinheiro
+A Perspectiva de Jesus e dos Apóstolos: Jesus confirmou o dízimo aos fariseus porque eles ainda estavam sob a vigência da Antiga Aliança
+. Na Nova Aliança, o sacerdócio mudou para Cristo (ordem de Melquisedeque), e o sistema de dízimo levítico foi considerado ab-rogado por sua inutilidade na Graça
+Contribuição na Graça: O Novo Testamento enfatiza a liberalidade, onde cada um contribui "segundo propôs no seu coração", com alegria e sem constrangimento, baseando-se na prosperidade e não em uma taxa fixa de 10%
+
+## IV. Versos Bíblicos em Destaque
+- Gênesis 14:20: Relata o dízimo voluntário de Abraão antes da Lei
+- Malaquias 3:10: O verso mais citado para justificar o dízimo, originalmente dirigido a Israel sob a Lei para que houvesse "mantimento" no Templo
+- Mateus 23:23: Jesus repreende a hipocrisia dos fariseus que dizimavam ervas, mas negligenciavam a justiça e a misericórdia
+- 2 Coríntios 9:7: Verso-chave para a contribuição na Graça, focando na vontade própria e na alegria ao dar
+- Hebreus 7:12: Explica que a mudança de sacerdócio implica necessariamente em uma mudança da lei
+
+## V. Conclusão
+Conclui-se que o dízimo, conforme moldado pela Lei Mosaica, cumpriu seu papel histórico e social para a nação de Israel
+. Para os dias de hoje, a problemática se resolve na transição da obrigação legal para a gratidão moral
+. Embora não haja uma imposição de 10% no Novo Testamento, a Igreja é chamada a uma generosidade que pode até superar esse valor, visando o sustento daqueles que vivem da obra e o auxílio aos necessitados
+. O cristão contemporâneo é livre do jugo da Lei, mas escravo do amor de Cristo para contribuir com o que propuser em seu coração
+
 
